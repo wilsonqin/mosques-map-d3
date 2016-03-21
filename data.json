@@ -1,0 +1,186 @@
+{
+  "mosques": [
+    {
+      "filename": ["385.jpg"],
+      "name": "Al-Masjid al-Haram (The Kabah)",
+      "city": "Mecca",
+      "country": "Saudi Arabia",
+      "loc" : [21.4225239,39.8239929]
+    },
+    {
+      "filename": ["150.jpg"],
+      "name": "Mosque at International Airport",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "loc": [24.9585463,46.7003723]
+    },
+    {
+      "filename": ["54.jpg", "22.jpg", "55.jpg"],
+      "name": "Mosque of Hassan II",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "loc": [33.6072016,-7.6339023]
+    },
+    {
+      "filename": ["178.jpg"],
+      "name": "Avicenne Military Hospital Mosque",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "loc": [31.6347405,-8.0234862]
+    },
+    {
+      "filename": ["108.jpg"],
+      "name": "Qarawiyyin Mosque",
+      "city": "Fez",
+      "country": "Morocco",
+      "loc": [34.0649146,-4.975584]
+    },
+    {
+      "filename": ["111.jpg"],
+      "name": "Village Mosque",
+      "city": "Ma'ader",
+      "country": "Algeria",
+      "loc": [35.7609965,2.8726236]
+    },
+    {
+      "filename": ["218.jpg"],
+      "name": "ISNA Islamic Center in Plainfield, Indiana",
+      "city": "Plainfield",
+      "country": "Indiana",
+      "loc": [39.6630384,-86.3878898]
+    },
+    {
+      "filename": ["248.jpg"],
+      "name": "Islamic Cultural Center in New York, New York",
+      "city": "New York",
+      "country": "New York",
+      "loc": [40.7854415,-73.9507256]
+    },
+    {
+      "filename": ["214.jpg", "215.jpg"],
+      "name": "Dar al-Islam in Abiquiu, New Mexico",
+      "city": "Abiquiu",
+      "country": "New Mexico",
+      "loc": [36.2319851,-106.310525]
+    },
+    {
+      "filename": ["223.jpg"],
+      "name": "Bait ul-Islam in Toronto, Canada",
+      "city": "Toronto",
+      "country": "Canada",
+      "loc": [43.8648605,-79.5451769]
+    },
+    {
+      "filename": ["50a.jpg", "50b.jpg"],
+      "name": "Isma'ili Jamatkhana and Centre in Burnaby, Canada",
+      "city": "Burnaby",
+      "country": "Canada",
+      "loc": [49.2545769,-123.0166588]
+    },
+    {
+      "filename": ["170.jpg"],
+      "name": "University of Indonesia Mosque in Jakarta, Indonesia",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "loc": [-6.2356172,106.79682]
+    },
+    {
+      "filename": ["232.jpg"],
+      "name": "Sultan Mosque of Singapore",
+      "city": "Singapore",
+      "country": "Singapore",
+      "loc": [1.302205,103.856862]
+    },
+    {
+      "filename": ["118.jpg"],
+      "name": "Masjid Darul Aman",
+      "city": "Jalan Eunos",
+      "country": "Singapore",
+      "loc": [1.31803,103.9024259]
+    },
+    {
+      "filename": ["236b.jpg"],
+      "name": "Shah Alam Mosque in Selangor, Malaysia",
+      "city": "Selangor",
+      "country": "Malaysia",
+      "loc": [3.0786225,101.5185243]
+    },
+    {
+      "filename": ["204.jpg"],
+      "name": "Bait ul-Mukaram in Dhaka, Bangladesh",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "loc": [23.7279731,90.4099729]
+    },
+    {
+      "filename": ["95.jpg"],
+      "name": "Capitol Complex Mosque (National Parliament House)",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "loc": [23.7613346,90.3761725]
+    },
+    {
+      "filename": ["165.jpg"],
+      "name": "Moti Masjid or Pearl Mosque in Red Fort in Delhi, India",
+      "city": "Delhi",
+      "country": "India",
+      "loc": [28.656838,77.2407534]
+    },
+    {
+      "filename": ["168b.jpg"],
+      "name": "Friday Mosque in Tatta, Pakistan",
+      "city": "Tatta",
+      "country": "Pakistan",
+      "loc": [24.7451906,67.8886441]
+    },
+    {
+      "filename": ["back.jpg"],
+      "name": "King Faisal Mosque in Islamabad, Pakistan",
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "loc": [33.7295304,73.0349753]
+    },
+    {
+      "filename": ["30.jpg", "31a.jpg"],
+      "name": "Bhong Mosque in Pakistan",
+      "city": "Bhong",
+      "country": "Pakistan",
+      "loc": [28.4230945,69.9092275]
+    },
+    {
+      "filename": ["38.jpg"],
+      "name": "Selimiye Mosque in Edirne",
+      "city": "Edirne",
+      "country": "Turkey",
+      "loc": [41.6780981,26.556997]
+    },
+    {
+      "filename": ["145.jpg"],
+      "name": "Sultan Ahmet Mosque (Blue Mosque) in Istanbul, Turkey",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "loc": [41.0054096,28.9746198]
+    },
+    {
+      "filename": ["134a.jpg", "237.jpg"],
+      "name": "Bibi-Khanym Mosque - Registan Square in Samarqand, Uzbekistan",
+      "city": "Samarqand",
+      "country": "Uzbekistan",
+      "loc": [39.6547297,66.9735307]
+    },
+    {
+      "filename": ["105.jpg"],
+      "name": "Shah Abbas Masjid in Isfahan, Iran",
+      "city": "Isfahan",
+      "country": "Iran",
+      "loc": [32.6545706,51.6754757]
+    },
+    {
+      "filename": ["145.jpg"],
+      "name": "Shrine of Hadrat-e Masumeh in Qom, Iran",
+      "city": "Qom",
+      "country": "Iran",
+      "loc": [34.6885018,50.7116329]
+    }
+  ]
+}
