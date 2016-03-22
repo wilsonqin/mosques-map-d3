@@ -44,42 +44,42 @@
     },
     {
       "filename": ["218.jpg"],
-      "name": "ISNA Islamic Center in Plainfield, Indiana",
+      "name": "ISNA Islamic Center",
       "city": "Plainfield",
       "country": "Indiana",
       "loc": [39.6630384,-86.3878898]
     },
     {
       "filename": ["248.jpg"],
-      "name": "Islamic Cultural Center in New York, New York",
+      "name": "Islamic Cultural Center",
       "city": "New York",
       "country": "New York",
       "loc": [40.7854415,-73.9507256]
     },
     {
       "filename": ["214.jpg", "215.jpg"],
-      "name": "Dar al-Islam in Abiquiu, New Mexico",
+      "name": "Dar al-Islam",
       "city": "Abiquiu",
       "country": "New Mexico",
       "loc": [36.2319851,-106.310525]
     },
     {
       "filename": ["223.jpg"],
-      "name": "Bait ul-Islam in Toronto, Canada",
+      "name": "Bait ul-Islam",
       "city": "Toronto",
       "country": "Canada",
       "loc": [43.8648605,-79.5451769]
     },
     {
       "filename": ["50a.jpg", "50b.jpg"],
-      "name": "Isma'ili Jamatkhana and Centre in Burnaby, Canada",
+      "name": "Isma'ili Jamatkhana and Centre",
       "city": "Burnaby",
       "country": "Canada",
       "loc": [49.2545769,-123.0166588]
     },
     {
       "filename": ["170.jpg"],
-      "name": "University of Indonesia Mosque in Jakarta, Indonesia",
+      "name": "University of Indonesia Mosque",
       "city": "Jakarta",
       "country": "Indonesia",
       "loc": [-6.2356172,106.79682]
@@ -100,14 +100,14 @@
     },
     {
       "filename": ["236b.jpg"],
-      "name": "Shah Alam Mosque in Selangor, Malaysia",
+      "name": "Shah Alam Mosque",
       "city": "Selangor",
       "country": "Malaysia",
       "loc": [3.0786225,101.5185243]
     },
     {
       "filename": ["204.jpg"],
-      "name": "Bait ul-Mukaram in Dhaka, Bangladesh",
+      "name": "Bait ul-Mukaram",
       "city": "Dhaka",
       "country": "Bangladesh",
       "loc": [23.7279731,90.4099729]
@@ -121,66 +121,115 @@
     },
     {
       "filename": ["165.jpg"],
-      "name": "Moti Masjid or Pearl Mosque in Red Fort in Delhi, India",
+      "name": "Moti Masjid or Pearl Mosque in Red Fort",
       "city": "Delhi",
       "country": "India",
       "loc": [28.656838,77.2407534]
     },
     {
       "filename": ["168b.jpg"],
-      "name": "Friday Mosque in Tatta, Pakistan",
+      "name": "Friday Mosque",
       "city": "Tatta",
       "country": "Pakistan",
       "loc": [24.7451906,67.8886441]
     },
     {
       "filename": ["back.jpg"],
-      "name": "King Faisal Mosque in Islamabad, Pakistan",
+      "name": "King Faisal Mosque",
       "city": "Islamabad",
       "country": "Pakistan",
       "loc": [33.7295304,73.0349753]
     },
     {
       "filename": ["30.jpg", "31a.jpg"],
-      "name": "Bhong Mosque in Pakistan",
+      "name": "Bhong Mosque",
       "city": "Bhong",
       "country": "Pakistan",
       "loc": [28.4230945,69.9092275]
     },
     {
       "filename": ["38.jpg"],
-      "name": "Selimiye Mosque in Edirne",
+      "name": "Selimiye Mosque",
       "city": "Edirne",
       "country": "Turkey",
       "loc": [41.6780981,26.556997]
     },
     {
       "filename": ["145.jpg"],
-      "name": "Sultan Ahmet Mosque (Blue Mosque) in Istanbul, Turkey",
+      "name": "Sultan Ahmet Mosque (Blue Mosque)",
       "city": "Istanbul",
       "country": "Turkey",
       "loc": [41.0054096,28.9746198]
     },
     {
       "filename": ["134a.jpg", "237.jpg"],
-      "name": "Bibi-Khanym Mosque - Registan Square in Samarqand, Uzbekistan",
+      "name": "Bibi-Khanym Mosque - Registan Square",
       "city": "Samarqand",
       "country": "Uzbekistan",
       "loc": [39.6547297,66.9735307]
     },
     {
       "filename": ["105.jpg"],
-      "name": "Shah Abbas Masjid in Isfahan, Iran",
+      "name": "Shah Abbas Masjid",
       "city": "Isfahan",
       "country": "Iran",
       "loc": [32.6545706,51.6754757]
     },
     {
       "filename": ["145.jpg"],
-      "name": "Shrine of Hadrat-e Masumeh in Qom, Iran",
+      "name": "Shrine of Hadrat-e Masumeh",
       "city": "Qom",
       "country": "Iran",
       "loc": [34.6885018,50.7116329]
+    },
+    {
+      "filename": ["35a.jpg"],
+      "name": "Al-Ibrahim Jami",
+      "city": "Caracas",
+      "country": "Venezuela",
+      "loc": [10.5019082,-66.8973062]
+    },
+    {
+      "filename": ["231.jpg"],
+      "name": "Regent's Park Mosque",
+      "city": "London",
+      "country": "England",
+      "loc": [151.5288342,-0.1668151]
+    },
+    {
+      "filename": ["239.jpg"],
+      "name": "Islamic Cultural Foundation Mosque",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "loc": [46.2236196,6.1198596]
+    },
+    {
+      "filename": ["190.jpg"],
+      "name": "Yaama Mosque",
+      "city": "Tahoua",
+      "country": "Niger",
+      "loc": [14.8983687,5.2341666]
+    },
+    {
+      "filename": ["236a.jpg"],
+      "name": "Djenna Mosque",
+      "city": "Djenne",
+      "country": "Mali",
+      "loc": [13.9051742,-4.5576042]
+    },
+    {
+      "filename": ["192.jpg"],
+      "name": "Great Mosque",
+      "city": "Dingueraye",
+      "country": "Guinea",
+      "loc": [11.2912523,-10.7288147]
+    },
+    {
+      "filename": ["204-1.jpg"],
+      "name": "Jami Masjid",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "loc": [-1.2833577,36.8183807]
     }
   ]
 }
